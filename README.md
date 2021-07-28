@@ -35,7 +35,7 @@ http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
 <tr>
 <td>
 
-[Оценка эмоциональности текста](./Twits_sentiments)
+[Оценка эмоциональности текста](./Tweet_sentiments)
 
 </td>
 <td>
@@ -52,7 +52,7 @@ http://help.sentiment140.com/for-students/
 <tr>
 <td>
 
-[Классификация символов](./Image_classifair)
+[Классификация символов](./Image_classificate)
 
 </td>
 <td>
